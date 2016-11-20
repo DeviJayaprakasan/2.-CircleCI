@@ -1,2 +1,2 @@
-# 2.-CircleCI
+# CircleCI
 Just another repository
